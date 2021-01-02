@@ -11,7 +11,7 @@
 # print("생성된 비밀번호 :"+ name[7:10]+ str(len(name[7:-4]))+str(name[7:-4].count("e"))+"!")
 
 #url = "http://youtube.com"
-url = "http://naver.com"
+url = "http://google.com"
 my_str = url.replace("http://","") # 규칙 1
 my_str = my_str[:my_str.index(".")] # 0~5 직전까지. 규칙 2
 # print(my_str)

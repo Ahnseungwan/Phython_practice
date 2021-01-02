@@ -32,7 +32,7 @@ print(cabinet.items())
 
 # 목욕탕 폐점
 cabinet.clear()
-print(cabinet)
+print(cabinets)
 
  
 
